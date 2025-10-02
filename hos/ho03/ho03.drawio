@@ -1,0 +1,82 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:143.0) Gecko/20100101 Firefox/143.0" version="28.2.5">
+  <diagram name="Page-1" id="1qSO8Vh5Noi59Am_OJNp">
+    <mxGraphModel dx="2887" dy="1136" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="iW5uyYO9_hLgqCBLhzYM-1" value="&lt;u&gt;CPF&lt;/u&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iW5uyYO9_hLgqCBLhzYM-2" value="Nome" style="whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="160" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iW5uyYO9_hLgqCBLhzYM-3" value="Endereço" style="whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="280" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iW5uyYO9_hLgqCBLhzYM-4" value="Telefone" style="whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="400" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iW5uyYO9_hLgqCBLhzYM-5" value="Sexo" style="whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="520" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iW5uyYO9_hLgqCBLhzYM-6" value="Salário" style="whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="640" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iW5uyYO9_hLgqCBLhzYM-8" value="Funcionário" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="40" y="100" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iW5uyYO9_hLgqCBLhzYM-10" value="&lt;u&gt;Sigla&lt;/u&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iW5uyYO9_hLgqCBLhzYM-11" value="Nome" style="whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="160" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iW5uyYO9_hLgqCBLhzYM-12" value="Locais" style="whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="280" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iW5uyYO9_hLgqCBLhzYM-16" value="Departamento" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="40" y="270" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iW5uyYO9_hLgqCBLhzYM-17" value="Departamento" style="whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="760" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iW5uyYO9_hLgqCBLhzYM-18" value="&lt;u&gt;CPF&lt;/u&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iW5uyYO9_hLgqCBLhzYM-19" value="Nome" style="whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="160" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iW5uyYO9_hLgqCBLhzYM-20" value="Sexo" style="whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="280" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iW5uyYO9_hLgqCBLhzYM-21" value="&lt;div&gt;Data de&lt;/div&gt;&lt;div&gt;Nascimento&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="400" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iW5uyYO9_hLgqCBLhzYM-22" value="Parentesco" style="whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="520" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iW5uyYO9_hLgqCBLhzYM-24" value="Dependente" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="40" y="400" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iW5uyYO9_hLgqCBLhzYM-28" value="&lt;u&gt;Sigla&lt;/u&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iW5uyYO9_hLgqCBLhzYM-29" value="Cidade" style="whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="720" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iW5uyYO9_hLgqCBLhzYM-30" value="Estado" style="whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="840" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iW5uyYO9_hLgqCBLhzYM-31" value="Locais" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="600" y="270" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iW5uyYO9_hLgqCBLhzYM-32" value="País" style="whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="960" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iW5uyYO9_hLgqCBLhzYM-33" value="&lt;p&gt;Gerar um modelo relacional representado como um diagrama de esquema &#xa;(DSC) usando a notação apresentada em Elmasri &amp;amp; Navathe, 2016 (ver &#xa;Figura 3.7) a partir da seguinte descrição de&amp;nbsp;minimundo:&lt;/p&gt;&#xa;&lt;p style=&quot;padding: 10px 30px;&quot;&gt;Esta é a descrição textual de minimundo &#xa;do BPE (v1.0). O BPE (Banco de Projetos Empresariais) gerencia a &#xa;alocação de funcionários em projetos empresariais. Em particular, o &#xa;funcionário da empresa será identificado por seu CPF. Adicionalmente a &#xa;empresa deve conhecer o nome, o endereço, o telefone, o sexo e o salário&#xa; pago a cada funcionário. Cada funcionário da empresa obrigatoriamente &#xa;está alocado a um departamento, sendo que cada departamento pode alocar &#xa;múltiplos funcionários. Cada funcionário da empresa possui múltiplos &#xa;dependentes, cuja existência pressupõe a existência do funcionário, &#xa;sendo que um mesmo dependente está associado obrigatoriamente a um único&#xa; funcionário. Os dependentes do funcionário serão identificados pelo seu&#xa; CPF e a empresa deverá conhecer o seu nome, sexo, data de nascimento e &#xa;grau de parentesco com o funcionário. Alguns funcionários da empresa &#xa;serão supervisionados por um outro funcionário. Os departamentos da &#xa;empresa serão identificados por sua sigla. Adicionalmente eles terão um &#xa;nome e locais, onde os locais são compostos por cidade, estado e país. &#xa;Um funcionário pode gerenciar departamentos, sendo que cada departamento&#xa; obrigatoriamente é gerenciado por um funcionário. Cada departamento &#xa;desenvolve projetos, sendo que um projeto pode ser desenvolvido por &#xa;múltiplos departamentos. As horas de desenvolvimento de cada &#xa;departamento em um projeto devem ser conhecidas. Todos os projetos tem &#xa;uma sigla que o identifica, um nome e uma data de conclusão. Somente os &#xa;funcionários alocados em um departamento trabalham nos projetos &#xa;desenvolvidos por aquele departamento, sendo que devemos conhecer as &#xa;horas trabalhados por cada funcionários nos projetos do departamento. Em&#xa; cada projeto a empresa deve conhecer o atributo derivado total de horas&#xa; trabalhadas por todos os funcionários naquele projeto.&lt;/p&gt;&#xa;&lt;p&gt;Recomenda-se partir de um modelo conceitual para então realizar o mapeamento de elementos para o modelo relacional.&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-600" y="40" width="560" height="610" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
